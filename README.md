@@ -4,7 +4,24 @@ AI-powered grammar correction and reply assistant for anywhere on your Mac.
 
 ## Download
 
-👉 [Latest Release](https://github.com/alanyukeroo/editormu-grammar-releases/releases/latest)
+👉 **[Download Latest Release](https://github.com/alanyukeroo/editormu-grammar-releases/releases/latest)**
+
+## Screenshots
+
+### Fix grammar anywhere — ⇧⌘G
+![Grammar correction popup](screenshots/grammar-popup.png)
+
+### AI reply suggestions — ⌥⌘R
+![Reply assistant in Gmail](screenshots/reply-assistant-gmail.png)
+
+### Hosted free tier (sign in with Google)
+![Hosted Pro preferences](screenshots/preferences-hosted-pro.png)
+
+### Bring your own OpenAI key
+![OpenAI preferences](screenshots/preferences-openai.png)
+
+### Or run fully local with Ollama
+![Ollama preferences](screenshots/preferences-ollama.png)
 
 ## Install
 
@@ -23,6 +40,8 @@ AI-powered grammar correction and reply assistant for anywhere on your Mac.
 
 ## Pricing
 
-- **Free** — 30 corrections/month (sign in with Google)
-- **Pro** — Unlimited for $5/month via Ko-fi
-- **Self-hosted** — Bring your own OpenAI or Ollama key
+| Plan | Price | Corrections |
+|---|---|---|
+| Free | $0 | 30/month |
+| Pro | $5/month via Ko-fi | Unlimited |
+| Self-hosted | Free | Unlimited (your API key) |
